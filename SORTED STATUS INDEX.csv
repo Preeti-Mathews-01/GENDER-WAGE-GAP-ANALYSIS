@@ -1,0 +1,567 @@
+Time,Female,Male,Wage gap,Country,Country_developementindex
+2010,1336.5,1490.5,0.103321033,Croatia,Developing
+2010,758,928,0.183189655,Latvia,Developed
+2010,1201.5,1544,0.221826425,Czechia,Developing
+2010,176,181,0.027624309,Timor-Leste,Developing
+2010,2.5,4,0.375,Liberia,Developing
+2010,2388,3508,0.319270239,Cyprus,Developing
+2010,726,835,0.130538922,Lithuania,Developed
+2010,144,217,0.33640553,Lao People's Democratic Republic,Developing
+2010,4318,5103,0.15383108,Luxembourg,Developed
+2010,81,106,0.235849057,Cambodia,Developing
+2010,1126,1110,-0.014414414,Turkey,Developing
+2010,2112,2434,0.132292523,Slovenia,Developed
+2010,2621,3948,0.336119554,United Kingdom,Developed
+2010,446,432,-0.032407407,Mexico,Developing
+2010,3088,3967,0.221578019,United States,Developed
+2010,193.5,187,-0.034759358,Mongolia,Developing
+2010,537,582,0.077319588,Romania,Developing
+2010,1444,1638.5,0.118706134,Portugal,Developed
+2010,130,158,0.17721519,Egypt,Developing
+2010,1672,2702,0.381199112,South Korea,Developed
+2010,397.5,483,0.177018634,Bulgaria,Developing
+2010,960,1089.5,0.118861863,Hungary,Developing
+2010,318,355,0.104225352,Guatemala,Developing
+2010,3133,3963.5,0.209537025,Iceland,Developed
+2010,1766,2084,0.152591171,Malta,Developed
+2010,2192,2717,0.193227825,Spain,Developed
+2010,308,319,0.034482759,El Salvador,Developing
+2010,3350,4299,0.220749011,Germany,Developed
+2010,5621.5,7189,0.218041452,Switzerland,Developed
+2010,2810.5,3201,0.121993127,Italy,Developed
+2010,3062,3500,0.125142857,France,Developed
+2010,955,1168.5,0.18271288,Slovakia,Developed
+2010,3701,4397,0.158289743,Finland,Developed
+2010,417,630,0.338095238,Kazakhstan,Developing
+2010,2386,3130,0.237699681,Singapore,Developed
+2010,2522,3740,0.325668449,Japan,Developed
+2010,2407,3423,0.296815659,New Zealand,Developed
+2010,925,1297,0.286815729,Estonia,Developed
+2010,360,483,0.254658385,Vanuatu,Developing
+2010,353,408,0.134803922,Peru,Developing
+2010,195.5,276.5,0.292947559,Armenia,Developing
+2010,316.5,446.5,0.291153415,Azerbaijan,Developing
+2010,2970.5,3883,0.234998712,Austria,Developed
+2010,147,165,0.109090909,Yemen,Developing
+2010,5807.5,6485.5,0.104540899,Norway,Developed
+2010,137,149,0.080536913,Viet Nam,Developing
+2010,261,218,-0.197247706,Philippines,Developing
+2010,1222.5,1577,0.224793912,"Hong Kong, China",Developed
+2010,2229,2604,0.144009217,Greece,Developed
+2011,498,677,0.264401773,Kazakhstan,Developing
+2011,211.5,315.5,0.329635499,Armenia,Developing
+2011,268,1669,0.839424805,Sudan,Developing
+2011,165.5,203.5,0.186732187,Niger,Developing
+2011,328,425,0.228235294,Peru,Developing
+2011,1833,2922,0.372689938,South Korea,Developed
+2011,2902,3947,0.264758044,Singapore,Developed
+2011,2807,4076,0.311334642,Japan,Developed
+2011,335.5,325,-0.032307692,El Salvador,Developing
+2011,385.5,510,0.244117647,Mauritius,Developing
+2011,3742,4577,0.182433909,Finland,Developed
+2011,1252.5,1670,0.25,"Hong Kong, China",Developed
+2011,2694,4148,0.350530376,United Kingdom,Developed
+2011,1274.5,1537.5,0.171056911,Greece,Developed
+2011,160,173,0.075144509,Viet Nam,Developing
+2011,90,113,0.203539823,Cambodia,Developing
+2011,6530.5,7235,0.097373877,Norway,Developed
+2011,317,236,-0.343220339,Philippines,Developing
+2011,709,771,0.080415045,Costa Rica,Developing
+2011,1406.5,1567,0.102425016,Croatia,Developing
+2011,1265,1583.5,0.201136722,Czechia,Developing
+2011,2190.5,2940,0.254931973,Cyprus,Developing
+2011,584,633.5,0.078137332,Romania,Developing
+2011,441.5,525.5,0.159847764,Bulgaria,Developing
+2011,353,435,0.188505747,Thailand,Developing
+2011,4197,5955,0.295214106,Luxembourg,Developed
+2011,240,262,0.083969466,"Tanzania, United Republic of",Developing
+2011,241.5,278,0.131294964,Moldova,Developing
+2011,2381,2952,0.193428184,Spain,Developed
+2011,4003,4406.5,0.091569273,Belgium,Developed
+2011,652,576.5,-0.130962706,Panama,Developing
+2011,236,320,0.2625,Bolivia,Developing
+2011,820,941,0.12858661,Latvia,Developed
+2011,2952,2556.5,-0.154703696,Qatar,Developed
+2011,314,282,-0.113475177,Egypt,Developing
+2011,526,541,0.027726433,Angola,Developing
+2011,3180.5,4029,0.210598163,United States,Developed
+2011,997.5,1133,0.119593998,Hungary,Developing
+2011,766,868.5,0.118019574,Argentina,Developing
+2011,2423,3928,0.38314664,Austria,Developed
+2011,4291,5565,0.228930818,Germany,Developed
+2011,265,393,0.325699746,Guatemala,Developing
+2011,672,608.5,-0.104354971,Malaysia,Developing
+2011,2260.5,2258.5,-0.000885544,Slovenia,Developed
+2011,313,498,0.371485944,Azerbaijan,Developing
+2011,3501.5,4463,0.215438046,Iceland,Developed
+2011,476,441,-0.079365079,Mexico,Developing
+2011,808,960,0.158333333,Uruguay,Developing
+2011,1001,1123,0.108637578,Slovakia,Developed
+2011,243.5,253,0.037549407,Mongolia,Developing
+2011,3607,4188,0.138729704,France,Developed
+2011,1063.5,1207.5,0.119254658,Portugal,Developed
+2013,1031,1140,0.100790514,Slovakia,Developed
+2013,1137.5,1265,0.169054441,Greece,Developed
+2013,2320,2792,0.24,Spain,Developed
+2013,228,300,0.216620432,Ghana,Developing
+2013,3247.5,4145.5,0.082375479,United States,Developed
+2013,479,522,0.288019122,Bosnia and Herzegovina,Developing
+2013,2383,3347,0.335576923,Japan,Developed
+2013,2764,4160,-0.349726776,United Kingdom,Developed
+2013,370.5,274.5,0.116756757,Philippines,Developing
+2013,817,925,0.116971917,South Africa,Developing
+2013,3616,4095,0.318497914,France,Developed
+2013,1960,2876,0.173366834,Israel,Developed
+2013,658,796,0.357288481,Brazil,Developing
+2013,630.5,981,0.279342723,Namibia,Developing
+2013,307,426,0.265536723,Bolivia,Developing
+2013,65,88.5,0.165627783,Ethiopia,Developing
+2013,468.5,561.5,0.132743363,Bulgaria,Developing
+2013,196,226,-0.048780488,Viet Nam,Developing
+2013,129,123,0.244755245,Sri Lanka,Developing
+2013,4320,5720,0.122580645,Germany,Developed
+2013,272,310,0.407960199,Moldova,Developing
+2013,357,603,0.211470649,Azerbaijan,Developing
+2013,3801.5,4821,0.1291019,Iceland,Developed
+2013,1008.5,1158,-0.024691358,Portugal,Developed
+2013,166,162,0.176298066,Indonesia,Developing
+2013,3791.5,4603,0.185978578,Finland,Developed
+2013,836,1027,-0.007490637,Argentina,Developing
+2013,134.5,133.5,0.366459627,Pakistan,Developing
+2013,306,483,-0.388724036,Timor-Leste,Developing
+2013,468,337,0.261116367,Egypt,Developing
+2013,3124,4228,0.139510117,Singapore,Developed
+2013,808,939,0.043228639,Latvia,Developed
+2013,1416.5,1480.5,0.263304283,Saudi Arabia,Developing
+2013,1986.5,2696.5,0.375096475,Cyprus,Developing
+2013,2429,3887,0.106287425,Austria,Developed
+2013,597,668,0.200103413,Romania,Developing
+2013,1547,1934,0.161157025,"Hong Kong, China",Developed
+2013,203,242,0.037442396,Kyrgyzstan,Developing
+2013,835.5,868,0.277227723,Costa Rica,Developing
+2013,4161,5757,0.18792633,Luxembourg,Developed
+2013,1190.5,1466,0.114401077,Czechia,Developing
+2013,658,743,0.186425738,Panama,Developing
+2013,923,1134.5,0.216753022,Uruguay,Developing
+2013,453.5,579,0.041627247,Mauritius,Developing
+2013,506.5,528.5,0.307901907,Ecuador,Developing
+2013,254,367,0.359458609,Armenia,Developing
+2013,2035,3177,0.140701287,South Korea,Developed
+2013,968,1126.5,0.223623853,Hungary,Developing
+2013,338.5,436,0.090199008,Ukraine,Developing
+2013,6697.5,7361.5,0.409230769,Norway,Developed
+2013,96,162.5,0.241610738,Mali,Developing
+2013,113,149,-0.073333333,Cambodia,Developing
+2013,322,300,0.056650246,El Salvador,Developing
+2013,383,406,-0.376974816,Guatemala,Developing
+2013,4401.5,3196.5,0.074539171,Qatar,Developed
+2013,4016.5,4340,0.028037383,Belgium,Developed
+2014,104,107,-0.018487395,Liberia,Developing
+2014,909,892.5,0.112226277,Montenegro,Developing
+2014,973,1096,0.19958635,Hungary,Developing
+2014,1548,1934,0.177884615,"Hong Kong, China",Developed
+2014,684,832,-0.259325044,Belize,Developing
+2014,354.5,281.5,0.408805031,Philippines,Developing
+2014,94,159,0.174789916,Pakistan,Developing
+2014,982,1190,0.106276151,Latvia,Developed
+2014,1068,1195,0.104532164,Slovakia,Developed
+2014,612.5,684,0.15542522,North Macedonia,Developing
+2014,864,1023,0.373417722,Lithuania,Developed
+2014,99,158,0.00591716,Rwanda,Developing
+2014,672,676,0.082710876,Romania,Developing
+2014,5035,5489,0.339438339,Luxembourg,Developed
+2014,2164,3276,0.074766355,South Korea,Developed
+2014,396,428,0.126888218,Mongolia,Developing
+2014,578,662,0.248529412,Namibia,Developing
+2014,511,680,0.036135693,Mauritius,Developing
+2014,653.5,678,0.089619646,Malaysia,Developing
+2014,6450.5,7085.5,0.292044662,Norway,Developed
+2014,2029,2866,0.043934426,Israel,Developed
+2014,729,762.5,-0.391883798,Serbia,Developing
+2014,4647.5,3339,0.140529532,Qatar,Developed
+2014,2110,2455,0.214736842,Malta,Developed
+2014,186.5,237.5,0.299617103,Kyrgyzstan,Developing
+2014,2195,3134,0.201800798,Japan,Developed
+2014,4299.5,5386.5,0.175190732,Iceland,Developed
+2014,2919,3539,-0.034351145,Italy,Developed
+2014,4336,4192,-0.051612903,Isle of Man,Developed
+2014,163,155,0.110749186,Indonesia,Developing
+2014,273,307,0.303303303,Moldova,Developing
+2014,116,166.5,0.281467719,Mali,Developing
+2014,3094,4306,0.063186813,New Zealand,Developed
+2014,682,728,0.095392078,Panama,Developing
+2014,5595,6185,0.248952723,Denmark,Developed
+2014,1255,1671,0.19802932,Estonia,Developed
+2014,3337,4161,0.060626703,United States,Developed
+2014,1379,1468,0.192573099,Saudi Arabia,Developing
+2014,6903.5,8550,0.2,Switzerland,Developed
+2014,138,172.5,0.106863597,Cambodia,Developing
+2014,1028,1151,0.407917384,Turkey,Developing
+2014,172,290.5,0.049056604,Cameroon,Developing
+2014,504,530,0.129732592,Bosnia and Herzegovina,Developing
+2014,3287,3777,0.159883721,France,Developed
+2014,433.5,516,0.182254197,Thailand,Developing
+2014,682,834,0.454545455,Brazil,Developing
+2014,54,99,0.019637462,Togo,Developing
+2014,324.5,331,0.05530303,El Salvador,Developing
+2014,1247,1320,0.148179509,Brunei Darussalam,Developing
+2014,503,590.5,-0.171428571,Bulgaria,Developing
+2014,61.5,52.5,0.260542169,Burundi,Developing
+2014,245.5,332,0.353715898,Ukraine,Developing
+2014,343.5,531.5,0.148833113,Georgia,Developing
+2014,3866,4542,0.056277056,Finland,Developed
+2014,218,231,0.114285714,Comoros,Developing
+2014,155,175,0.093530966,Sri Lanka,Developing
+2014,3944.5,4351.5,0.193940734,Belgium,Developed
+2014,3645,4522,0.263933262,Germany,Developed
+2014,2073.5,2817,0.176083379,Cyprus,Developing
+2014,751,911.5,0.068457539,Argentina,Developing
+2014,2150,2308,0.135802469,Slovenia,Developed
+2014,210,243,-0.102434077,Viet Nam,Developing
+2014,543.5,493,0.303225806,Ecuador,Developing
+2014,270,387.5,0.191625266,Armenia,Developing
+2014,1139,1409,-0.064902331,Czechia,Developing
+2014,845,793.5,0.310872894,Costa Rica,Developing
+2014,450,653,0.211149659,Azerbaijan,Developing
+2014,3297,4179.5,0.283809524,Austria,Developed
+2014,188,262.5,0.132436261,"Tanzania, United Republic of",Developing
+2014,2450,2824,0.304255319,Spain,Developed
+2014,327,470,0.045673077,Bolivia,Developing
+2014,397,416,0.061360605,Guatemala,Developing
+2014,2111,2249,0.047552726,Greece,Developed
+2014,4787,5026,0.225177305,Sweden,Developed
+2014,874,1128,0.133123028,Uruguay,Developing
+2014,1374,1585,0.282051282,Croatia,Developing
+2015,112,156,0.033986928,Pakistan,Developing
+2015,739,765,0.347457627,Panama,Developing
+2015,77,118,0.114451988,Mali,Developing
+2015,913,1031,0.237018096,Costa Rica,Developing
+2015,3879,5084,0.073713491,Luxembourg,Developed
+2015,333,359.5,0.159722222,Thailand,Developing
+2015,60.5,72,0.018473896,Madagascar,Developing
+2015,611,622.5,0.267955801,Malaysia,Developing
+2015,132.5,181,0.202986279,Cyprus,Developing
+2015,987.5,1239,0.159395973,Czechia,Developing
+2015,250.5,298,0.144293318,Cape Verde,Developing
+2015,723.5,845.5,0.074626866,Lithuania,Developed
+2015,248,268,-0.347431167,Viet Nam,Developing
+2015,4747,3523,0.1,Qatar,Developed
+2015,162,180,0.0951417,Cambodia,Developing
+2015,223.5,247,0.059195455,Moldova,Developing
+2015,5133.5,5456.5,0.159213759,Norway,Developed
+2015,855.5,1017.5,0.089601046,Portugal,Developed
+2015,696,764.5,0.056664006,Bolivia,Developing
+2015,591,626.5,0.072215422,Belize,Developing
+2015,379,408.5,0.206482453,Mongolia,Developing
+2015,3403,4288.5,0.246031746,United States,Developed
+2015,95,126,-0.259067358,Myanmar,Developing
+2015,364.5,289.5,0.163797115,Philippines,Developing
+2015,898.5,1074.5,0.277853077,Uruguay,Developing
+2015,2664,3689,0.288629738,New Zealand,Developed
+2015,366,514.5,0.362876753,Azerbaijan,Developing
+2015,2135,3351,0.080789946,Austria,Developed
+2015,512,557,0.31988024,Mauritius,Developing
+2015,2839.5,4175,0.247357294,United Kingdom,Developed
+2015,178,236.5,0.247706422,Armenia,Developing
+2015,164,218,0.16097561,Ukraine,Developing
+2015,172,205,0.143250328,Kyrgyzstan,Developing
+2015,3268.5,3815,0.338714885,Finland,Developed
+2015,2048,3097,0.119341564,South Korea,Developed
+2015,214,243,0.23478971,Egypt,Developing
+2015,937,1224.5,0.119105493,Slovakia,Developed
+2015,906,1028.5,0.445506692,Greece,Developed
+2015,145,261.5,0.224579664,Ghana,Developing
+2015,3874,4996,0.168,Germany,Developed
+2015,1924,2312.5,0.166149535,Spain,Developed
+2015,4165.5,4995.5,0.041388518,Iceland,Developed
+2015,359,374.5,0.096842105,Albania,Developing
+2015,429,475,0.070581897,Bosnia and Herzegovina,Developing
+2015,3450,3712,-0.068027211,Belgium,Developed
+2015,157,147,0.263392857,Indonesia,Developing
+2015,495,672,0.144702842,Kazakhstan,Developing
+2015,827.5,967.5,-0.094855305,Hungary,Developing
+2015,340.5,311,-0.011876485,El Salvador,Developing
+2015,426,421,0.305008136,Guatemala,Developing
+2015,1922,2765.5,0.058823529,Israel,Developed
+2015,328,348.5,-0.076923077,Honduras,Developing
+2015,560,520,-0.024875622,Ecuador,Developing
+2015,206,201,-0.000629723,Sri Lanka,Developing
+2015,1589,1588,0.14983165,Saudi Arabia,Developing
+2015,3030,3564,0.224806202,France,Developed
+2015,1600,2064,0.142028986,"Hong Kong, China",Developed
+2015,444,517.5,0.001618123,Bulgaria,Developing
+2015,1851,1854,0.292735043,Slovenia,Developed
+2015,331,468,0.24742268,Georgia,Developing
+2015,219,291,0.0833227,Dominican Republic,Developing
+2015,3592,3918.5,0.291386033,Sweden,Developed
+2015,1999,2821,0.148969889,Japan,Developed
+2015,537,631,0.117039587,Brazil,Developing
+2016,256.5,290.5,0.308551069,Viet Nam,Developing
+2016,2911,4210,0.130153999,Isle of Man,Developed
+2016,875.5,1006.5,-0.261324042,Portugal,Developed
+2016,362,287,0.210036423,Philippines,Developing
+2016,3904,4942,0.328752643,Germany,Developed
+2016,317.5,473,0.072052695,Georgia,Developing
+2016,3451.5,3719.5,-0.033057851,Belgium,Developed
+2016,875,847,0.182533764,Panama,Developing
+2016,4933,6034.5,0.072653061,Iceland,Developed
+2016,568,612.5,0.281588448,Belize,Developing
+2016,1990,2770,0.285714286,Israel,Developed
+2016,220,308,0.178484108,Dominican Republic,Developing
+2016,336,409,0.081769437,Belarus,Developing
+2016,342.5,373,0.222406639,Mongolia,Developing
+2016,1874,2410,0.067594433,Spain,Developed
+2016,938,1006,0.235159817,Greece,Developed
+2016,1675,2190,0.060102302,"Hong Kong, China",Developed
+2016,367.5,391,0.000530082,Albania,Developing
+2016,1885.5,1886.5,0.039503386,Slovenia,Developed
+2016,425.5,443,0.323828921,Guatemala,Developing
+2016,166,245.5,0.128657921,Armenia,Developing
+2016,863.5,991,0.347591983,Hungary,Developing
+2016,2181,3343,0.099175876,Austria,Developed
+2016,4809.5,5339,0.136756482,Norway,Developed
+2016,849,983.5,0.300295858,Uruguay,Developing
+2016,236.5,338,0.277528387,Azerbaijan,Developing
+2016,2736,3787,0.072727273,New Zealand,Developed
+2016,229.5,247.5,0.04815864,Moldova,Developing
+2016,168,176.5,0.083575581,Bangladesh,Developing
+2016,1261,1376,-0.009287926,Barbados,Developing
+2016,489,484.5,0.174893568,Namibia,Developing
+2016,3585.5,4345.5,0.144084507,United States,Developed
+2016,3038.5,3550,-0.11746988,France,Developed
+2016,371,332,0.070404828,Honduras,Developing
+2016,3697,3977,0.061764706,Sweden,Developed
+2016,319,340,0.056326531,Egypt,Developing
+2016,578,612.5,-0.084415584,Malaysia,Developing
+2016,334,308,0.076923077,El Salvador,Developing
+2016,780,845,-0.028384279,Bolivia,Developing
+2016,235.5,229,0.180693069,Timor-Leste,Developing
+2016,165.5,202,0.035986914,Cambodia,Developing
+2016,884,917,0.212820513,Costa Rica,Developing
+2016,3991,5070,-0.02213667,Luxembourg,Developed
+2016,531,519.5,0.168605378,Ecuador,Developing
+2016,6647,7995,0.100552165,Switzerland,Developed
+2016,1547.5,1720.5,0.107635695,Saudi Arabia,Developing
+2016,970,1087,0.296527159,Slovakia,Developed
+2016,1580,2246,0.185022026,Cyprus,Developing
+2016,555,681,0.325089489,Maldives,Developing
+2016,2074,3073,0.247357294,South Korea,Developed
+2016,178,236.5,0.206088993,Ukraine,Developing
+2016,169.5,213.5,-0.000329308,Kyrgyzstan,Developing
+2016,4556.5,4555,0.205797101,Qatar,Developed
+2016,685,862.5,0.31180762,Jordan,Developing
+2016,2547,3701,0.136514983,United Kingdom,Developed
+2016,389,450.5,0.201005025,Bosnia and Herzegovina,Developing
+2016,1033.5,1293.5,0.04009434,Czechia,Developing
+2016,203.5,212,0.123831776,Sri Lanka,Developing
+2016,562.5,642,0.096330275,Mauritius,Developing
+2016,591,654,0.1,Brazil,Developing
+2016,504,560,-0.078809107,Fiji,Developing
+2016,308,285.5,0.287705957,Eswatini,Developing
+2016,2248,3156,0.055514974,Japan,Developed
+2016,646.5,684.5,0.067125645,Romania,Developing
+2016,2710,2905,0.150355872,Singapore,Developed
+2016,477.5,562,0.409090909,Bulgaria,Developing
+2016,78,132,0.130939227,Mali,Developing
+2016,786.5,905,0.538793103,Lithuania,Developed
+2017,53.5,116,0.213296399,Ghana,Developing
+2017,568,722,0.11588785,Russian Federation,Developing
+2017,236.5,267.5,-0.144549763,Viet Nam,Developing
+2017,966,844,0.297101449,Panama,Developing
+2017,97,138,0.311288483,Rwanda,Developing
+2017,2416,3508,-0.02919708,United Kingdom,Developed
+2017,1551,1507,0.062804878,Saudi Arabia,Developing
+2017,3842.5,4100,0.268292683,Sweden,Developed
+2017,90,123,-0.006996065,Uganda,Developing
+2017,4606,4574,0.165622202,Qatar,Developed
+2017,3728,4468,-0.248188406,United States,Developed
+2017,344.5,276,0.125991749,Philippines,Developing
+2017,2754,3151,0.139694042,Singapore,Developed
+2017,2137,2484,0.147095696,Spain,Developed
+2017,1020.5,1196.5,0.118012422,Uruguay,Developing
+2017,213,241.5,0.105621806,Sri Lanka,Developing
+2017,1050,1174,0.072,Slovakia,Developed
+2017,116,125,0.236272879,Togo,Developing
+2017,229.5,300.5,0.323715059,Ukraine,Developing
+2017,2250,3327,0.013192612,South Korea,Developed
+2017,187,189.5,0.132894737,Pakistan,Developing
+2017,659,760,0.20272259,Brazil,Developing
+2017,4334,5436,0.122294917,Luxembourg,Developed
+2017,872,993.5,0.168371361,Lithuania,Developed
+2017,528.5,635.5,0.118,Bulgaria,Developing
+2017,882,1000,-0.203431373,Latvia,Developed
+2017,982,816,0.038461538,Costa Rica,Developing
+2017,275,286,0.175,Lao People's Democratic Republic,Developing
+2017,16.5,20,0.280952381,Kyrgyzstan,Developing
+2017,1585.5,2205,0.005154639,Cyprus,Developing
+2017,386,388,0.21230982,Zambia,Developing
+2017,1139,1446,0.183654729,Czechia,Developing
+2017,889,1089,0.026748971,Portugal,Developed
+2017,473,486,0.218095238,Samoa,Developing
+2017,410.5,525,0.16112532,Kazakhstan,Developing
+2017,164,195.5,0.248447205,Côte d'Ivoire,Developing
+2017,242,322,0.145367813,Dominican Republic,Developing
+2017,3404,3983,0.027128862,Finland,Developed
+2017,645.5,663.5,-0.094152626,Malaysia,Developing
+2017,552,504.5,-0.106280193,Ecuador,Developing
+2017,229,207,0.281229346,Egypt,Developing
+2017,2175,3026,0.039274924,Japan,Developed
+2017,318,331,0.207154088,El Salvador,Developing
+2017,1008.5,1272,0.179876995,Hungary,Developing
+2017,5934,7235.5,0.009749304,Iceland,Developed
+2017,355.5,359,0.139626219,Honduras,Developing
+2017,3176.5,3692,0.009825328,France,Developed
+2017,453.5,458,0.374233129,Guatemala,Developing
+2017,306,489,0.208624709,Georgia,Developing
+2017,4074,5148,0.086575875,Germany,Developed
+2017,939,1028,0.141025641,Greece,Developed
+2017,402,468,0.124236253,Bosnia and Herzegovina,Developing
+2017,215,245.5,0.230166503,Cambodia,Developing
+2017,786,1021,0.101123596,Argentina,Developing
+2017,320,356,0.049586777,Mongolia,Developing
+2017,517.5,544.5,0.25,Jordan,Developing
+2017,177,236,0.06,Armenia,Developing
+2017,23.5,25,0.258064516,Moldova,Developing
+2017,138,186,0.342857143,Nepal,Developing
+2017,2277,3465,0.068929775,Austria,Developed
+2017,3593,3859,0.17218543,Belgium,Developed
+2017,437.5,528.5,0.099307159,Belarus,Developing
+2017,585,649.5,0.069946543,Belize,Developing
+2017,5132.5,5518.5,0.21875,Norway,Developed
+2017,150,192,0.24500768,Bangladesh,Developing
+2017,491.5,651,0.309734513,Mauritius,Developing
+2017,234,339,0.0546875,Azerbaijan,Developing
+2017,121,128,0.053229665,Myanmar,Developing
+2017,791.5,836,0.427509294,Bolivia,Developing
+2017,77,134.5,-0.025252525,Mali,Developing
+2017,406,396,0.268033409,Albania,Developing
+2017,2892,3951,-0.023876404,New Zealand,Developed
+2018,364.5,356,0.136912752,El Salvador,Developing
+2018,643,745,0.147058824,Argentina,Developing
+2018,275.5,323,0.05174723,Dominican Republic,Developing
+2018,3894,4106.5,0.218390805,Sweden,Developed
+2018,170,217.5,0.282051282,Sri Lanka,Developing
+2018,182,253.5,0.192307692,Armenia,Developing
+2018,73.5,91,0.331499312,Gambia,Developing
+2018,243,363.5,0.136450019,Azerbaijan,Developing
+2018,2272,2631,-0.017582418,Spain,Developed
+2018,463,455,0.274238227,Albania,Developing
+2018,131,180.5,0.166377816,Pakistan,Developing
+2018,240.5,288.5,0.322971114,Viet Nam,Developing
+2018,2461,3635,0.128180276,Austria,Developed
+2018,3598,4127,0.333161556,Finland,Developed
+2018,2588,3881,0.094435076,United Kingdom,Developed
+2018,537,593,0.061143984,Tonga,Developing
+2018,476,507,0.12558937,Bosnia and Herzegovina,Developing
+2018,1020,1166.5,0.019950125,Uruguay,Developing
+2018,196.5,200.5,0.235457064,Chad,Developing
+2018,138,180.5,0.150277008,Burkina Faso,Developing
+2018,613.5,722,0.21456398,Bulgaria,Developing
+2018,1310.5,1668.5,0.202263083,Czechia,Developing
+2018,564,707,0.079093947,Belize,Developing
+2018,3720,4039.5,0.135520685,Belgium,Developed
+2018,606,701,0.083192805,Brazil,Developing
+2018,815.5,889.5,0.282212445,Turkey,Developing
+2018,1713,2386.5,0.072727273,Cyprus,Developing
+2018,51,55,0.192937123,Costa Rica,Developing
+2018,468.5,580.5,0.179692308,Belarus,Developing
+2018,1333,1625,0.160493827,Curaçao,Developed
+2018,3876,4617,0.095009597,United States,Developed
+2018,471.5,521,0.240215924,Thailand,Developing
+2018,281.5,370.5,0.052812859,Ukraine,Developing
+2018,825,871,0.140625,Bolivia,Developing
+2018,110,128,-0.023897059,Egypt,Developing
+2018,557,544,-0.054189246,Ecuador,Developing
+2018,5058,4798,-0.392649903,Qatar,Developed
+2018,360,258.5,0.064220183,Philippines,Developing
+2018,1020,1090,0.311434163,Greece,Developed
+2018,2463,3577,0.15,South Korea,Developed
+2018,17,20,0.124301075,Kyrgyzstan,Developing
+2018,1018,1162.5,0.066901408,Latvia,Developed
+2018,132.5,142,0.02627807,Myanmar,Developing
+2018,1019,1046.5,0.323559151,Romania,Developing
+2018,334.5,494.5,0.000659196,Georgia,Developing
+2018,758,758.5,0.238888889,Malaysia,Developing
+2018,548,720,0.125628141,Mauritius,Developing
+2018,348,398,0.482200647,Mongolia,Developing
+2018,80,154.5,0.013426737,Mali,Developing
+2018,1690,1713,0.170565642,Saudi Arabia,Developing
+2018,4751,5728,-0.001709402,Luxembourg,Developed
+2018,293,292.5,0.079365079,Zambia,Developing
+2018,29,31.5,0.18712908,Moldova,Developing
+2018,4383,5392,0.26084278,Germany,Developed
+2018,2999.5,4058,0.061857466,New Zealand,Developed
+2018,5384,5739,0.168808912,Norway,Developed
+2018,970,1167,0.022885572,Portugal,Developed
+2018,491,502.5,0.099910394,Jordan,Developing
+2018,1004.5,1116,0.10528386,Lithuania,Developed
+2018,6824,7627,0.034334764,Iceland,Developed
+2018,337.5,349.5,-0.089133089,Honduras,Developing
+2018,892,819,0.262278107,Panama,Developing
+2018,2493.5,3380,0.160325298,Israel,Developed
+2018,2891,3443,0.118956255,Singapore,Developed
+2018,1148,1303,0.277329894,Slovakia,Developed
+2018,2241,3101,-0.269814503,Japan,Developed
+2018,753,593,0.286652079,Namibia,Developing
+2018,326,457,0.046490428,Guyana,Developing
+2018,2092,2194,0.011337868,Slovenia,Developed
+2018,436,441,0.078624079,Guatemala,Developing
+2019,375,407,0.199351702,Mongolia,Developing
+2019,494,617,-0.002544529,Mauritius,Developing
+2019,394,393,0.189058729,Mexico,Developing
+2019,504,621.5,0.119804401,Belarus,Developing
+2019,360,409,0.184592871,Moldova,Developing
+2019,3900.5,4783.5,0.135014837,United States,Developed
+2019,1166,1348,-0.392190153,Slovakia,Developed
+2019,410,294.5,0.292346299,Philippines,Developing
+2019,282,398.5,0.252491694,Azerbaijan,Developing
+2019,2925,3913,0.042490119,New Zealand,Developed
+2019,484.5,506,0.061381074,Jordan,Developing
+2019,367,391,0.140432099,El Salvador,Developing
+2019,278.5,324,0.17221135,Viet Nam,Developing
+2019,423,511,0.078014184,Peru,Developing
+2019,130,141,0.130650995,Myanmar,Developing
+2019,961.5,1106,0.214035088,Uruguay,Developing
+2019,224,285,-0.024122807,Uzbekistan,Developing
+2019,467,456,0.234750462,Guatemala,Developing
+2019,207,270.5,-0.048467967,Armenia,Developing
+2019,941,897.5,0.082670906,Panama,Developing
+2019,577,629,0.023109244,Argentina,Developing
+2019,465,476,0.145176695,Albania,Developing
+2019,895,1047,0.199712644,Greece,Developed
+2019,278.5,348,-0.215838509,Dominican Republic,Developing
+2019,783,644,0.312588402,Maldives,Developing
+2019,2430,3535,0.058914729,Austria,Developed
+2019,5159.5,5482.5,0.095238095,Norway,Developed
+2019,570,630,0.254826255,Belize,Developing
+2019,193,259,-0.007281553,Japan,Developed
+2019,830,824,0.105263158,Costa Rica,Developing
+2019,663,741,-0.141274238,Serbia,Developing
+2019,824,722,0.151898734,Lebanon,Developing
+2019,502.5,592.5,-0.036639857,Thailand,Developing
+2019,580,559.5,0.315462754,Ecuador,Developing
+2019,2426,3544,0.126473585,South Korea,Developed
+2019,3001,3435.5,0.142857143,Singapore,Developed
+2019,18,21,0.037544461,Kyrgyzstan,Developing
+2019,3653,3795.5,0.235476375,Sweden,Developed
+2019,987,1291,0.126997477,Chile,Developing
+2019,1038,1189,0.028612303,Latvia,Developed
+2019,339.5,349.5,0.096560847,Honduras,Developing
+2019,683,756,0.036256585,Turkey,Developing
+2019,1555,1613.5,0.123893805,Saudi Arabia,Developing
+2019,3465,3955,0.220620843,Finland,Developed
+2019,351.5,451,-0.055717863,Ukraine,Developing
+2019,5059,4792,0.156159069,Qatar,Developed
+2019,435,515.5,0.308171745,Bosnia and Herzegovina,Developing
+2019,499.5,722,0.105388155,Botswana,Developing
+2019,6027,6737,0.164383562,Iceland,Developed
+2019,610,730,0.065585331,Russian Federation,Developing
+2019,1325,1418,0.172413793,Lithuania,Developed
+2019,4308,5205.5,0.111764706,Germany,Developed
+2019,604,680,-0.348837209,Brazil,Developing
+2019,290,215,0.027352805,Lesotho,Developing
+2019,1049,1078.5,0.310335712,Romania,Developing
+2019,2609,3783,0.051515152,United Kingdom,Developed
+2019,156.5,165,0.048275862,Kenya,Developing
+2019,828,870,0.163522013,Bolivia,Developing
+2019,133,159,,Egypt,Developing
